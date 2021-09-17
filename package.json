@@ -1,5 +1,5 @@
 {
-  "name": "aaa",
+  "name": "gulp-sass-example",
   "version": "1.0.0",
   "description": "gulp sass - scss and minify css file",
   "main": "gulpfile.js",
